@@ -1,17 +1,19 @@
-{ "https://www.epicurious.com/recipes/food/views/grilled-chicken-skewers-with-pineapple-and-mushrooms": 
-  { "title": "Grilled Chicken Skewers", 
-    "ingredients": ["Juice of 1 lemon", 
-                    "Juice of 1 lime", 
-                    "1 tablespoon olive oil", 
-                    "1 teaspoon minced garlic", 
-                    "1/2 teaspoon dried thyme", 
-                    "1/2 pound boneless chicken breast, cut in 1-inch cubes", 
-                    "1 large zucchini, sliced in 1/2-inch rounds", 
-                    "1 large pineapple, cut in 1-inch chunks", 
-                    "8 ounces button mushrooms, stems removed", 
-                    "1/2 red onion, cut in 1-inch chunks", 
-                    "12 (8 to 12-inch) wooden skewers soaked in water for 30 minutes"], 
-    "instructions": "Combine the marinade ingredients in a medium-size bowl, add the chicken cubes, and refrigerate for 1 hour. Preheat the oven to 350\u00b0F. Remove the chicken cubes from the marinade. Thread the meat, fruit, and vegetables on the skewers, placing one chicken cube between each vegetable or fruit piece. Discard the marinade. Place the skewers on a rimmed baking sheet and bake for 12 minutes on each side. Preheat the broiler. Broil for 3 minutes on each side until cooked through and vegetables are slightly brown. Alternatively, you can grill the skewers 5 to 10 minutes on each side, until cooked through.\nCombine the marinade ingredients in a medium-size bowl, add the chicken cubes, and refrigerate for 1 hour.\nPreheat the oven to 350\u00b0F.\nRemov    e the chicken cubes from the marinade. Thread the meat, fruit, and vegetables on the skewers, placing one chicken cube between each vegetable or fruit piece. Discard the marinade.\nPlace the skewers on a rimmed baking sheet and bake for 12 minutes on each side.\nPreheat the broiler.\nBroil for 3 minutes on each side until cooked through and vegetables are slightly brown.\nAlternatively, you can grill the skewers 5 to 10 minutes on each side, until cooked through.", 
-    "picture_link": "https://assets.epicurious.com/photos/5cca08039acb003261d1cc30/6:4/w_274%2Ch_169/tropical-grilled-chicken-skewers-recipe-HC-050119.jpg"}
-  }
+{
+	"https://www.epicurious.com/recipes/food/views/grilled-chicken-skewers-with-pineapple-and-mushrooms": {
+		"title": "Grilled Chicken Skewers",
+		"ingredients": ["Juice of 1 lemon",
+			"Juice of 1 lime",
+			"1 tablespoon olive oil",
+			"1 teaspoon minced garlic",
+			"1/2 teaspoon dried thyme",
+			"1/2 pound boneless chicken breast, cut in 1-inch cubes",
+			"1 large zucchini, sliced in 1/2-inch rounds",
+			"1 large pineapple, cut in 1-inch chunks",
+			"8 ounces button mushrooms, stems removed",
+			"1/2 red onion, cut in 1-inch chunks",
+			"12 (8 to 12-inch) wooden skewers soaked in water for 30 minutes"
+		],
+		"instructions": "Combine the marinade ingredients in a medium-size bowl, add the chicken cubes, and refrigerate for 1 hour. Preheat the oven to 350\u00b0F. Remove the chicken cubes from the marinade. Thread the meat, fruit, and vegetables on the skewers, placing one chicken cube between each vegetable or fruit piece. Discard the marinade. Place the skewers on a rimmed baking sheet and bake for 12 minutes on each side. Preheat the broiler. Broil for 3 minutes on each side until cooked through and vegetables are slightly brown. Alternatively, you can grill the skewers 5 to 10 minutes on each side, until cooked through.\nCombine the marinade ingredients in a medium-size bowl, add the chicken cubes, and refrigerate for 1 hour.\nPreheat the oven to 350\u00b0F.\nRemov    e the chicken cubes from the marinade. Thread the meat, fruit, and vegetables on the skewers, placing one chicken cube between each vegetable or fruit piece. Discard the marinade.\nPlace the skewers on a rimmed baking sheet and bake for 12 minutes on each side.\nPreheat the broiler.\nBroil for 3 minutes on each side until cooked through and vegetables are slightly brown.\nAlternatively, you can grill the skewers 5 to 10 minutes on each side, until cooked through.",
+		"picture_link": "https://assets.epicurious.com/photos/5cca08039acb003261d1cc30/6:4/w_274%2Ch_169/tropical-grilled-chicken-skewers-recipe-HC-050119.jpg"
+	}
 }
