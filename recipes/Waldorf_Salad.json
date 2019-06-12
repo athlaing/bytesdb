@@ -1,0 +1,19 @@
+{
+    "recipe": {
+        "title": "Waldorf Salad ",
+        "ingredients": [
+            "1 cup diced celery",
+            "1 cup diced cored, peeled apples",
+            "1/2 cup coarsely chopped walnuts",
+            "1/2 cup seedless red grapes, halved, optional",
+            "1/2 to 3/4 cup mayonnaise"
+        ],
+        "instructions": [
+            "Combine celery, apples, walnuts, and grapes in a medium bowl. Stir in mayonnaise. Serve at room temperature or chilled.",
+            "Combine celery, apples, walnuts, and grapes in a medium bowl.",
+            "Stir in mayonnaise.",
+            "Serve at room temperature or chilled."
+        ],
+        "picture_link": "https://assets.epicurious.com/photos/54b3b54c460b4423363f489c/6:4/w_274%2Ch_169/360790_waldorf-salad_1x1.jpg"
+    }
+}
