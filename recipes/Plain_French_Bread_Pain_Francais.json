@@ -99,6 +99,7 @@
             "Canvas housekeeping",
             "After each bread session, if you have used canvas, brush it thoroughly to remove all traces of flour and hang it out to dry before putting away. Otherwise the canvas could become moldy and run your next badge of dough."
         ],
-        "picture_link": null
+        "picture_link": null,
+        "color": 11751752
     }
 }
